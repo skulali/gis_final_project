@@ -1,0 +1,33 @@
+---
+title: "data manipulation"
+author: "Sharon Kulali"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+# loading the necessary packages
+
+library(tidyverse)
+```
+
+```{r}
+# impoting the data
+
+mm = read_delim("data/mm_9920.txt")
+```
+
+```{r}
+# cleaning and selecting variables
+
+mm =
+  mm |> 
+  janitor::clean_names() |> 
+  select(county, county_code, deaths)
+```
+
+```{r}
+# exporting data as csv
+
+write_csv(mm, "data/mm.csv")
+```
+

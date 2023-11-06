@@ -1,0 +1,507 @@
+county,county_code,deaths
+"Dallas County, AL",01047,11
+"Jefferson County, AL",01073,48
+"Madison County, AL",01089,19
+"Mobile County, AL",01097,30
+"Montgomery County, AL",01101,28
+"Shelby County, AL",01117,10
+"Tuscaloosa County, AL",01125,13
+"Anchorage Borough, AK",02020,10
+"Apache County, AZ",04001,17
+"Coconino County, AZ",04005,10
+"Maricopa County, AZ",04013,198
+"Mohave County, AZ",04015,13
+"Navajo County, AZ",04017,11
+"Pima County, AZ",04019,48
+"Pinal County, AZ",04021,20
+"Benton County, AR",05007,16
+"Craighead County, AR",05031,10
+"Jefferson County, AR",05069,12
+"Pulaski County, AR",05119,50
+"Washington County, AR",05143,18
+"Alameda County, CA",06001,91
+"Butte County, CA",06007,12
+"Contra Costa County, CA",06013,44
+"Fresno County, CA",06019,48
+"Kern County, CA",06029,59
+"Kings County, CA",06031,12
+"Los Angeles County, CA",06037,550
+"Madera County, CA",06039,11
+"Merced County, CA",06047,22
+"Monterey County, CA",06053,21
+"Orange County, CA",06059,97
+"Placer County, CA",06061,12
+"Riverside County, CA",06065,110
+"Sacramento County, CA",06067,80
+"San Bernardino County, CA",06071,136
+"San Diego County, CA",06073,139
+"San Francisco County, CA",06075,29
+"San Joaquin County, CA",06077,45
+"San Mateo County, CA",06081,22
+"Santa Barbara County, CA",06083,16
+"Santa Clara County, CA",06085,62
+"Santa Cruz County, CA",06087,13
+"Solano County, CA",06095,21
+"Sonoma County, CA",06097,23
+"Stanislaus County, CA",06099,31
+"Tulare County, CA",06107,39
+"Ventura County, CA",06111,26
+"Adams County, CO",08001,18
+"Arapahoe County, CO",08005,21
+"Denver County, CO",08031,36
+"El Paso County, CO",08041,28
+"Jefferson County, CO",08059,10
+"Pueblo County, CO",08101,11
+"Fairfield County, CT",09001,32
+"Hartford County, CT",09003,25
+"New Haven County, CT",09009,35
+"New Castle County, DE",10003,28
+"District of Columbia, DC",11001,83
+"Alachua County, FL",12001,21
+"Bay County, FL",12005,11
+"Brevard County, FL",12009,27
+"Broward County, FL",12011,112
+"Clay County, FL",12019,11
+"Collier County, FL",12021,12
+"Duval County, FL",12031,67
+"Escambia County, FL",12033,27
+"Hillsborough County, FL",12057,75
+"Lake County, FL",12069,10
+"Lee County, FL",12071,22
+"Leon County, FL",12073,23
+"Manatee County, FL",12081,19
+"Marion County, FL",12083,16
+"Miami-Dade County, FL",12086,146
+"Orange County, FL",12095,77
+"Osceola County, FL",12097,18
+"Palm Beach County, FL",12099,93
+"Pasco County, FL",12101,19
+"Pinellas County, FL",12103,43
+"Polk County, FL",12105,50
+"St. Lucie County, FL",12111,18
+"Seminole County, FL",12117,13
+"Volusia County, FL",12127,21
+"Bibb County, GA",13021,13
+"Carroll County, GA",13045,14
+"Chatham County, GA",13051,28
+"Cherokee County, GA",13057,12
+"Clarke County, GA",13059,12
+"Clayton County, GA",13063,39
+"Cobb County, GA",13067,49
+"DeKalb County, GA",13089,107
+"Dougherty County, GA",13095,14
+"Douglas County, GA",13097,10
+"Fulton County, GA",13121,125
+"Glynn County, GA",13127,15
+"Gordon County, GA",13129,10
+"Gwinnett County, GA",13135,63
+"Henry County, GA",13151,30
+"Houston County, GA",13153,14
+"Liberty County, GA",13179,13
+"Lowndes County, GA",13185,11
+"Muscogee County, GA",13215,30
+"Newton County, GA",13217,10
+"Richmond County, GA",13245,35
+"Rockdale County, GA",13247,11
+"Honolulu County, HI",15003,48
+"Ada County, ID",16001,18
+"Bannock County, ID",16005,10
+"Bonneville County, ID",16019,10
+"Canyon County, ID",16027,24
+"Champaign County, IL",17019,15
+"Cook County, IL",17031,297
+"DuPage County, IL",17043,21
+"Kane County, IL",17089,15
+"Lake County, IL",17097,28
+"LaSalle County, IL",17099,10
+"Madison County, IL",17119,10
+"Peoria County, IL",17143,11
+"St. Clair County, IL",17163,14
+"Will County, IL",17197,19
+"Winnebago County, IL",17201,10
+"Allen County, IN",18003,16
+"Clark County, IN",18019,11
+"Delaware County, IN",18035,12
+"Elkhart County, IN",18039,12
+"Hamilton County, IN",18057,16
+"Johnson County, IN",18081,10
+"Lake County, IN",18089,43
+"Madison County, IN",18095,15
+"Marion County, IN",18097,70
+"Porter County, IN",18127,11
+"St. Joseph County, IN",18141,18
+"Black Hawk County, IA",19013,14
+"Polk County, IA",19153,23
+"Johnson County, KS",20091,25
+"Sedgwick County, KS",20173,29
+"Shawnee County, KS",20177,11
+"Wyandotte County, KS",20209,17
+"Fayette County, KY",21067,15
+"Jefferson County, KY",21111,64
+"Kenton County, KY",21117,14
+"Acadia Parish, LA",22001,10
+"Caddo Parish, LA",22017,34
+"Calcasieu Parish, LA",22019,17
+"East Baton Rouge Parish, LA",22033,47
+"Jefferson Parish, LA",22051,37
+"Lafayette Parish, LA",22055,15
+"Livingston Parish, LA",22063,10
+"Orleans Parish, LA",22071,36
+"Ouachita Parish, LA",22073,16
+"Rapides Parish, LA",22079,19
+"St. Landry Parish, LA",22097,14
+"St. Mary Parish, LA",22101,10
+"St. Tammany Parish, LA",22103,14
+"Tangipahoa Parish, LA",22105,19
+"Terrebonne Parish, LA",22109,12
+"Anne Arundel County, MD",24003,29
+"Baltimore County, MD",24005,56
+"Cecil County, MD",24015,11
+"Charles County, MD",24017,15
+"Frederick County, MD",24021,10
+"Harford County, MD",24025,18
+"Howard County, MD",24027,12
+"Montgomery County, MD",24031,55
+"Prince George's County, MD",24033,77
+"Baltimore city, MD",24510,58
+"Bristol County, MA",25005,10
+"Essex County, MA",25009,23
+"Hampden County, MA",25013,16
+"Middlesex County, MA",25017,26
+"Norfolk County, MA",25021,11
+"Suffolk County, MA",25025,15
+"Worcester County, MA",25027,14
+"Berrien County, MI",26021,15
+"Calhoun County, MI",26025,10
+"Genesee County, MI",26049,37
+"Ingham County, MI",26065,13
+"Jackson County, MI",26075,10
+"Kalamazoo County, MI",26077,18
+"Kent County, MI",26081,28
+"Macomb County, MI",26099,53
+"Muskegon County, MI",26121,16
+"Oakland County, MI",26125,73
+"Ottawa County, MI",26139,14
+"Saginaw County, MI",26145,15
+"Wayne County, MI",26163,188
+"Hennepin County, MN",27053,59
+"Ramsey County, MN",27123,17
+"Forrest County, MS",28035,11
+"Harrison County, MS",28047,15
+"Hinds County, MS",28049,25
+"Greene County, MO",29077,12
+"Jackson County, MO",29095,57
+"Jefferson County, MO",29099,11
+"St. Charles County, MO",29183,21
+"St. Louis County, MO",29189,62
+"St. Louis city, MO",29510,52
+"Lewis and Clark County, MT",30049,10
+"Douglas County, NE",31055,32
+"Lancaster County, NE",31109,16
+"Clark County, NV",32003,75
+"Washoe County, NV",32031,13
+"Hillsborough County, NH",33011,18
+"Strafford County, NH",33017,10
+"Atlantic County, NJ",34001,26
+"Bergen County, NJ",34003,40
+"Burlington County, NJ",34005,30
+"Camden County, NJ",34007,52
+"Cumberland County, NJ",34011,24
+"Essex County, NJ",34013,128
+"Gloucester County, NJ",34015,24
+"Hudson County, NJ",34017,60
+"Mercer County, NJ",34021,25
+"Middlesex County, NJ",34023,59
+"Monmouth County, NJ",34025,37
+"Morris County, NJ",34027,19
+"Ocean County, NJ",34029,29
+"Passaic County, NJ",34031,43
+"Somerset County, NJ",34035,20
+"Sussex County, NJ",34037,10
+"Union County, NJ",34039,52
+"Bernalillo County, NM",35001,38
+"Dona Ana County, NM",35013,18
+"McKinley County, NM",35031,12
+"Otero County, NM",35035,10
+"San Juan County, NM",35045,10
+"Albany County, NY",36001,11
+"Bronx County, NY",36005,177
+"Erie County, NY",36029,62
+"Kings County, NY",36047,281
+"Monroe County, NY",36055,38
+"Nassau County, NY",36059,58
+"New York County, NY",36061,79
+"Niagara County, NY",36063,19
+"Oneida County, NY",36065,19
+"Onondaga County, NY",36067,28
+"Orange County, NY",36071,20
+"Queens County, NY",36081,175
+"Richmond County, NY",36085,27
+"Rockland County, NY",36087,18
+"Schenectady County, NY",36093,14
+"Suffolk County, NY",36103,54
+"Westchester County, NY",36119,37
+"Alamance County, NC",37001,12
+"Cumberland County, NC",37051,26
+"Durham County, NC",37063,13
+"Forsyth County, NC",37067,23
+"Guilford County, NC",37081,26
+"Harnett County, NC",37085,11
+"Lenoir County, NC",37107,10
+"Mecklenburg County, NC",37119,45
+"Onslow County, NC",37133,11
+"Pitt County, NC",37147,13
+"Randolph County, NC",37151,17
+"Robeson County, NC",37155,12
+"Wake County, NC",37183,35
+"Wayne County, NC",37191,12
+"Butler County, OH",39017,20
+"Clermont County, OH",39025,11
+"Columbiana County, OH",39029,12
+"Cuyahoga County, OH",39035,71
+"Delaware County, OH",39041,12
+"Franklin County, OH",39049,78
+"Hamilton County, OH",39061,51
+"Lorain County, OH",39093,14
+"Lucas County, OH",39095,29
+"Mahoning County, OH",39099,11
+"Montgomery County, OH",39113,41
+"Stark County, OH",39151,15
+"Summit County, OH",39153,28
+"Trumbull County, OH",39155,13
+"Wayne County, OH",39169,11
+"Canadian County, OK",40017,11
+"Cleveland County, OK",40027,19
+"Comanche County, OK",40031,10
+"Oklahoma County, OK",40109,68
+"Tulsa County, OK",40143,47
+"Clackamas County, OR",41005,13
+"Lane County, OR",41039,15
+"Marion County, OR",41047,16
+"Multnomah County, OR",41051,36
+"Washington County, OR",41067,16
+"Allegheny County, PA",42003,45
+"Berks County, PA",42011,13
+"Bucks County, PA",42017,22
+"Chester County, PA",42029,10
+"Cumberland County, PA",42041,14
+"Delaware County, PA",42045,30
+"Erie County, PA",42049,12
+"Lancaster County, PA",42071,18
+"Lehigh County, PA",42077,20
+"Luzerne County, PA",42079,19
+"Monroe County, PA",42089,12
+"Montgomery County, PA",42091,26
+"Northampton County, PA",42095,14
+"Philadelphia County, PA",42101,171
+"Westmoreland County, PA",42129,11
+"York County, PA",42133,18
+"Providence County, RI",44007,23
+"Aiken County, SC",45003,11
+"Anderson County, SC",45007,18
+"Berkeley County, SC",45015,11
+"Charleston County, SC",45019,23
+"Florence County, SC",45041,11
+"Greenville County, SC",45045,29
+"Horry County, SC",45051,19
+"Lexington County, SC",45063,17
+"Orangeburg County, SC",45075,15
+"Pickens County, SC",45077,11
+"Richland County, SC",45079,35
+"Spartanburg County, SC",45083,22
+"York County, SC",45091,18
+"Minnehaha County, SD",46099,12
+"Davidson County, TN",47037,50
+"Hamilton County, TN",47065,17
+"Knox County, TN",47093,25
+"Montgomery County, TN",47125,13
+"Rutherford County, TN",47149,17
+"Shelby County, TN",47157,101
+"Angelina County, TX",48005,14
+"Bell County, TX",48027,19
+"Bexar County, TX",48029,159
+"Bowie County, TX",48037,15
+"Brazoria County, TX",48039,35
+"Brazos County, TX",48041,11
+"Cameron County, TX",48061,28
+"Collin County, TX",48085,35
+"Dallas County, TX",48113,256
+"Denton County, TX",48121,35
+"Ellis County, TX",48139,10
+"El Paso County, TX",48141,42
+"Fort Bend County, TX",48157,44
+"Galveston County, TX",48167,28
+"Harris County, TX",48201,448
+"Hidalgo County, TX",48215,51
+"Jefferson County, TX",48245,24
+"Johnson County, TX",48251,10
+"Lubbock County, TX",48303,27
+"McLennan County, TX",48309,31
+"Montgomery County, TX",48339,29
+"Nueces County, TX",48355,22
+"Orange County, TX",48361,12
+"Parker County, TX",48367,10
+"Randall County, TX",48381,10
+"Rusk County, TX",48401,11
+"Smith County, TX",48423,14
+"Tarrant County, TX",48439,171
+"Taylor County, TX",48441,11
+"Travis County, TX",48453,62
+"Webb County, TX",48479,19
+"Wichita County, TX",48485,12
+"Williamson County, TX",48491,26
+"Davis County, UT",49011,21
+"Salt Lake County, UT",49035,70
+"Utah County, UT",49049,29
+"Washington County, UT",49053,12
+"Fairfax County, VA",51059,27
+"Henrico County, VA",51087,11
+"Loudoun County, VA",51107,11
+"Prince William County, VA",51153,19
+"Chesapeake city, VA",51550,14
+"Hampton city, VA",51650,14
+"Newport News city, VA",51700,15
+"Norfolk city, VA",51710,18
+"Richmond city, VA",51760,19
+"Roanoke city, VA",51770,11
+"Suffolk city, VA",51800,11
+"Virginia Beach city, VA",51810,24
+"Clark County, WA",53011,16
+"King County, WA",53033,68
+"Kitsap County, WA",53035,11
+"Pierce County, WA",53053,48
+"Snohomish County, WA",53061,38
+"Spokane County, WA",53063,21
+"Thurston County, WA",53067,12
+"Yakima County, WA",53077,14
+"Cabell County, WV",54011,13
+"Brown County, WI",55009,10
+"Dane County, WI",55025,19
+"Milwaukee County, WI",55079,62
+"Outagamie County, WI",55087,10
+"Racine County, WI",55101,10
+"Waukesha County, WI",55133,12
+NA,NA,18841
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
+NA,NA,NA
